@@ -5947,7 +5947,7 @@
       (xy 55.245 64.895)
       (xy 131.08 64.895)
     ) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp ee0d6eec-c275-4628-9543-a7fa9f455f72))
-  (gr_text "ArcDVI VIDC A3000\nv2 11 May 2023\nMatt Evans" (at 95.64 119.02) (layer "F.Cu") (tstamp 49b29b60-2167-4d4d-a123-c6d747720f77)
+  (gr_text "ArcDVI VIDC A3000\nv2 1 June 2023\nMatt Evans" (at 95.64 119.02) (layer "F.Cu") (tstamp 49b29b60-2167-4d4d-a123-c6d747720f77)
     (effects (font (size 1.4 1.4) (thickness 0.25)) (justify left))
   )
   (gr_text "1" (at 126.19 107.17) (layer "F.SilkS") (tstamp 5b3bb006-2f19-4a08-a6b4-1350bcedc359)
